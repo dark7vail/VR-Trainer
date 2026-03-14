@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+# Node modules (if you’re using Node at all)
+node_modules/
+# Unity temp files
+Library/
+Temp/
+Obj/
+Build/
